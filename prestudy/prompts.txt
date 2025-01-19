@@ -1,0 +1,104 @@
+Prompt 1: Bare Minimum & No Context Given 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+
+Prompt 2: Answer Tuning by requesting specific output
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+
+Prompt 3: Adding context by defining to entities and relationships
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+
+Prompt 4: Added basic chain-of-thought without requesting reasoning outputted
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    Lets think about what is considered an entity outside of the context of the given sentence as well as in the context of the sentence.
+
+Prompt 5: Added decomposition to test reasoning, removed chain-of-thought 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    I want you to first look for relationships within the input text, then break down the relationships into entities. 
+
+Prompt 6: Added self-introspection into prompt
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    I want you to first look for relationships within the input text, then break down the relationships into entities. Lets think about what is considered a relationship outside of the context of the given sentence as well as in the context of the sentence.
+
+Prompt 7: Added chain-of-thought based on previous outputs and removed decomposition and self-introspection
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    Use the entities and relationships found in previous sentences to inform decisions about the future inputs.
+
+Prompt 8: Added a role for GPT to play and removed chain-of-thought 
+    You are an answer set programmer. Use inductive reasoning to give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+
+Prompt 9: One-shot prompting
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    Use this as an example: 
+		*EXAMPLE*
+
+Prompt 10: One shot prompting and added context by defining entities and relationships broadly
+    An entity is something that exists apart from other things, having its own independent existence. An entity can be a person, location, object, or organization. A relationship is the way in which two or more entities relate to one another. 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+    Use this as an example: 
+		*INPUT ONE EXAMPLE*
+
+Prompt 11: Added chain-of-thought by introducing constraints on relationships
+    An entity is something that exists apart from other things, having its own independent existence. An entity can be a person, location, object, or organization. A relationship is the way in which two or more entities relate to one another. 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+        They are: 
+            - Only ‘Peop’ entity can ‘Kill’ ‘Peop’ entity.
+            - Only ‘Org’ entity can have relationship ‘OrgBased\_In’ ‘Loc’ entity.
+            - Only ‘Peop’ entity can ‘Work\_For’ ‘Org’ entity.
+            - Only ‘Peop’ entity can ‘Live\_In’ ‘Loc’ entity.
+
+Prompt 12: Few-shot prompting 
+    An entity is something that exists apart from other things, having its own independent existence. An entity can be a person, location, object, or organization. A relationship is the way in which two or more entities relate to one another. 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+        They are: 
+            - Only ‘Peop’ entity can ‘Kill’ ‘Peop’ entity.
+            - Only ‘Org’ entity can have relationship ‘OrgBased\_In’ ‘Loc’ entity.
+            - Only ‘Peop’ entity can ‘Work\_For’ ‘Org’ entity.
+            - Only ‘Peop’ entity can ‘Live\_In’ ‘Loc’ entity.
+    Here are some examples: 
+        *INPUT TEN EXAMPLES*
+
+Prompt 13: Few-shot prompting: added specific role and experience of GPT 
+    You are a natural language processing researcher working in the news and journalism domain. You have an M.Sc. degree in linguistics and substantial background working to annotate entities and relationships using your knowledge of syntax and semantics. Your job is to extract entities from excerpts of text from news excerpts.
+    An entity is something that exists apart from other things, having its own independent existence. An entity can be a person, location, object, or organization. A relationship is the way in which two or more entities relate to one another. 
+    Give me the entities and any relationships between them in the following text. Do not include any explanation, only provide a RF8259 compliant JSON response without deviation. Do not include newline in the output. Include the original text as the first key in the output. 
+    The keys for the output JSON should be “Text”:, “Entities”: [“Entity”:, “Type”:], “Relationships”:[“Subject”:, “Object”:, “Type”:] Do not use any other keys for the JSON response. 
+    Only classify entity types as either location, organization, people, or other. Output ‘Loc’ for location, ‘Peop’ for people, ‘Org’ for organization and ‘Other’ for other. 
+    Only classify relationship types as either organization based in, located in, live in, work for, or kill. Output ‘OrgBased\_In’ type for organization based in, ‘Located\_In’ for located in, ‘Live\_In’ for live in, ‘Work\_For’ for work for, and ‘Kill’ for kill.  
+        They are: 
+            - Only ‘Peop’ entity can ‘Kill’ ‘Peop’ entity.
+            - Only ‘Org’ entity can have relationship ‘OrgBased\_In’ ‘Loc’ entity.
+            - Only ‘Peop’ entity can ‘Work\_For’ ‘Org’ entity.
+            - Only ‘Peop’ entity can ‘Live\_In’ ‘Loc’ entity.
+    Here are some examples: 
+        *INPUT TEN EXAMPLES*
