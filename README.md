@@ -55,33 +55,59 @@ Assume that the llm_ouput.txt and ground_truth.txt files encode the LLM output a
 
 To run the ASP code without using the type specification, the following command should be used:
 
-    clingo compare_2.lp llm_output.txt ground_truth.txt 
+    clingo [PATH_TO]compare_2.lp [PATH_TO]llm_output.txt [PATH_TO]ground_truth.txt 
+
+where [PATH_TO] specifies the folder of the program or data. 
 
 To run the ASP code with the type specification, the following command should be used:
 
-    clingo compare_2.lp llm_output.txt ground_truth.txt domain.lp 
+    clingo [PATH_TO]compare_2.lp [PATH_TO]llm_output.txt [PATH_TO]ground_truth.txt [PATH_TO]domain.lp 
     where domain.lp is the file encoding the type specification.  
 
 The output of this program will contain atoms of the 
 
     * f1_entity(t, tp, fp, fn): the numbers of TP, FP, and FN of entity of type t are tp, fp, and fn, respectively.    
-    * f1_relation(t, tp, fp, fn): the numbers of TP, FP, and FN of relation of type t are tp, fp, and fn, respectively.   
+    * f1_relation(t, tp, fp, fn): the numbers of TP, FP, and FN of relation of type t are tp, fp, and fn, respectively.  
+    * statistics  
 
-Sometime, it is useful to add "--outf=0 -V0 --out-atomf=%s. --quiet=1,2,2 | head -n1 | tr ' ' '\n' | grep f1" (OS Max command line)to the command line to formulate the output. For example,  
+For example, the command (runs in the folder containing the LLM output and ground truth of 
+the ConLL04 dataset with the fine tuning model with 5% traning data and type specification) 
+that looks as follows: 
 
-    clingo compare_2.lp llm_output.txt ground_truth.txt --outf=0 -V0 --out-atomf=%s. --quiet=1,2,2 | head -n1 | tr ' ' '\n' | grep f1 
+    clingo ../../../compare_2.lp llm_output_asp.txt ground_truth_asp.txt ../../domain.lp 
 
-for the ConLL04 dataset (fine tuning with 5% traning data) looks as follows: 
+which outputs 
 
-    f1_entity("org",165,49,30).
-    f1_entity("other",41,75,91).
-    f1_entity("loc",355,82,57).
-    f1_entity("peop",277,30,41).
-    f1_relation("orgbased_in",72,94,24).
-    f1_relation("located_in",55,45,35).
-    f1_relation("live_in",62,137,35).
-    f1_relation("work_for",55,34,21).
-    f1_relation("kill",19,18,28).
+    clingo version 5.4.0
+    Reading from ../../../compare_2.lp ...
+    Solving...
+    f1_entity("org",165,42,30)
+    f1_entity("other",56,119,76)
+    f1_entity("loc",361,100,51)
+    f1_entity("peop",284,32,34)
+    f1_relation("orgbased_in",69,49,27)
+    f1_relation("located_in",69,51,21)
+    f1_relation("live_in",56,103,41)
+    f1_relation("work_for",51,12,25)
+    f1_relation("kill",23,17,24)
+    [['org', 165, 42, 30], ['other', 56, 119, 76], ['loc', 361, 100, 51], ['peop', 284, 32, 34]]
+    [['orgbased_in', 69, 49, 27], ['located_in', 69, 51, 21], ['live_in', 56, 103, 41], ['work_for', 51, 12, 25], ['kill', 23, 17, 24]]
+    [['org', 0.8208955223880597], ['other', 0.3648208469055375], ['loc', 0.8270332187857962], ['peop', 0.8958990536277602]]
+    [['orgbased_in', 0.6448598130841121], ['located_in', 0.6571428571428571], ['live_in', 0.4375], ['work_for', 0.7338129496402879], ['kill', 0.5287356321839081]]
+    f1 macro entity:  0.7271621604267884
+    f1 macro relation:  0.6004102504102331
+    f1 micro entity:  0.7815884476534295
+    f1 micro relation:  0.5916114790286976 
+    Answer: 1
+
+    SATISFIABLE
+
+    Models       : 1+
+    Calls        : 1
+    Time         : 0.141s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+    CPU Time     : 0.077s
+
+The statistics can be used for reports. 
 
 ## Prompts
 We include a list of prompts used in our preliminary study on prompting techniques that were used to inform the creation of our prompt templates for this paper in the prestudy folder. 
