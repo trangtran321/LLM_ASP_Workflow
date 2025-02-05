@@ -17,7 +17,7 @@ if __name__ == "__main__":
     )
 
     parser.add_argument("--purpose", required=True, type=str, help="Enter either 'inference' to perform JERE, 'finetune', or 'ensemble' to perform entity reduction on a specified output. If 'ensemble' chosen, filepath of post processed outputs must be supplied.")
-    parser.add_argument("--dataset", required=True, type=str, help="Enter dataset to perform JERE, finetuning or ensemble on. Options are 'ade', 'sci' or 'con' for ADE, SciErc and CoNLL04 respectively.")
+    parser.add_argument("--dataset", required=True, type=str, help="Enter dataset to perform JERE, finetuning or ensemble on. Options are 'ade', 'scierc' or 'conll04'.")
     parser.add_argument("--model", required=False, type=str, help="Enter the openAI model you'd like to use. Default is: gpt-4o-2024-08-06")
     parser.add_argument("--filepath", required=False, type=str, help="Enter the filepath of postprocessed JERE predictions to perform ensemble entity reduction.")
     args = parser.parse_args()
@@ -27,8 +27,8 @@ if __name__ == "__main__":
     model = args.model
     filepath = args.filepath
 
-    if dataset != "ade" and dataset != "sci" and dataset != "con":
-        raise Exception("Invalid input: Please choose between 'ade', 'sci' or 'con'.")
+    if dataset != "ade" and dataset != "scierc" and dataset != "conll04":
+        raise Exception("Invalid input: Please choose between 'ade', 'scierc' or 'conll04'.")
 
     if purpose == "inference":
         print(f"Performing JERE on {dataset} data.")

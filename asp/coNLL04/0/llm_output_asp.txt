@@ -1,0 +1,1520 @@
+atom(entity(1, "hakawati theatre", "org")).
+atom(entity(1, "arab east jerusalem", "loc")).
+atom(entity(1, "palestinians", "peop")).
+atom(entity(2, "perugia", "loc")).
+atom(entity(2, "italy", "loc")).
+atom(entity(2, "ap", "org")).
+atom(entity(3, "reagan", "peop")).
+atom(entity(3, "we the people", "other")).
+atom(entity(3, "american", "other")).
+atom(entity(3, "america", "loc")).
+atom(entity(4, "congress", "org")).
+atom(entity(4, "news media", "org")).
+atom(entity(4, "special interest groups", "org")).
+atom(entity(4, "washington", "loc")).
+atom(entity(4, "dec  13", "other")).
+atom(entity(4, "reagan", "peop")).
+atom(entity(5, "university of virginia", "org")).
+atom(entity(5, "charlottesville", "loc")).
+atom(entity(5, "dec  16", "other")).
+atom(entity(5, "congress", "org")).
+atom(entity(5, "central america", "loc")).
+atom(entity(5, "contra rebels", "org")).
+atom(entity(6, "wright", "peop")).
+atom(entity(6, "university of texas", "org")).
+atom(entity(6, "nixon", "peop")).
+atom(entity(6, "1973", "other")).
+atom(entity(6, "1974", "other")).
+atom(entity(6, "watergate", "other")).
+atom(entity(6, "white house", "loc")).
+atom(entity(7, "nikita khrushchev", "peop")).
+atom(entity(7, "soviet", "org")).
+atom(entity(7, "president kennedy", "peop")).
+atom(entity(7, "cuban missile crisis", "other")).
+atom(entity(8, "anastas mikoyan", "peop")).
+atom(entity(8, "soviet", "org")).
+atom(entity(8, "khrushchev", "peop")).
+atom(entity(9, "mikoyan", "peop")).
+atom(entity(9, "khrushchev", "peop")).
+atom(entity(9, "soviet", "org")).
+atom(entity(10, "alekseev", "peop")).
+atom(entity(10, "soviet diplomatic corps", "org")).
+atom(entity(10, "moscow", "loc")).
+atom(entity(11, "milan", "loc")).
+atom(entity(11, "italy", "loc")).
+atom(entity(11, "ap", "org")).
+atom(entity(12, "hot springs national park", "loc")).
+atom(entity(12, "ark", "loc")).
+atom(entity(13, "aguadilla", "loc")).
+atom(entity(13, "puerto rico", "loc")).
+atom(entity(14, "fort wainwright annex", "loc")).
+atom(entity(14, "fairbanks", "loc")).
+atom(entity(14, "alaska", "loc")).
+atom(entity(15, "atlantic city", "loc")).
+atom(entity(15, "n j", "loc")).
+atom(entity(16, "fresno", "loc")).
+atom(entity(16, "calif", "loc")).
+atom(entity(17, "moscow", "loc")).
+atom(entity(17, "bolshoi ballet", "org")).
+atom(entity(17, "leningrad", "loc")).
+atom(entity(17, "kirov ballet", "org")).
+atom(entity(17, "armenian capital of yerevan", "loc")).
+atom(entity(17, "june anderson", "peop")).
+atom(entity(17, "carol vaness", "peop")).
+atom(entity(17, "british dancers and singers", "peop")).
+atom(entity(18, "boston university", "org")).
+atom(entity(18, "michael d  papagiannis", "peop")).
+atom(entity(18, "earth", "loc")).
+atom(entity(19, "ostined", "loc")).
+atom(entity(19, "lesny", "loc")).
+atom(entity(19, "liberec", "loc")).
+atom(entity(19, "czechoslovakia", "loc")).
+atom(entity(19, "gmund", "loc")).
+atom(entity(19, "austria", "loc")).
+atom(entity(20, "bone", "loc")).
+atom(entity(20, "idaho", "loc")).
+atom(entity(20, "ap", "org")).
+atom(entity(21, "bingham county", "loc")).
+atom(entity(21, "sheriff", "other")).
+atom(entity(21, "lt  bill gordon", "peop")).
+atom(entity(22, "canada", "loc")).
+atom(entity(22, "yves fortier", "peop")).
+atom(entity(23, "donald miller", "peop")).
+atom(entity(23, "united federation of teachers", "org")).
+atom(entity(23, "bert shanas", "peop")).
+atom(entity(24, "challenger", "other")).
+atom(entity(24, "navy capt  michael coats", "peop")).
+atom(entity(24, "wednesday", "other")).
+atom(entity(25, "california", "loc")).
+atom(entity(25, "wednesday", "other")).
+atom(entity(25, "ontario", "loc")).
+atom(entity(25, "el toro", "loc")).
+atom(entity(26, "yellowstone", "loc")).
+atom(entity(26, "wyo", "loc")).
+atom(entity(26, "mcallen", "loc")).
+atom(entity(26, "texas", "loc")).
+atom(entity(27, "steve wright", "peop")).
+atom(entity(27, "doe", "org")).
+atom(entity(27, "srp", "other")).
+atom(entity(28, "bert byers", "peop")).
+atom(entity(28, "cecil field naval air station", "org")).
+atom(entity(29, "urutigoechea", "peop")).
+atom(entity(29, "wednesday", "other")).
+atom(entity(29, "bayonee", "loc")).
+atom(entity(29, "bonloc", "loc")).
+atom(entity(29, "southwestern france", "loc")).
+atom(entity(29, "poitiers", "loc")).
+atom(entity(29, "west-central france", "loc")).
+atom(entity(30, "judith c  toth", "peop")).
+atom(entity(30, "maryland", "loc")).
+atom(entity(30, "house of delegates", "org")).
+atom(entity(31, "center for disease control", "org")).
+atom(entity(31, "fort collins", "loc")).
+atom(entity(31, "jan  3", "other")).
+atom(entity(31, "plague", "other")).
+atom(entity(32, "hatcher", "peop")).
+atom(entity(32, "onondaga territory", "loc")).
+atom(entity(32, "shoshone-bannock reservation", "loc")).
+atom(entity(32, "idaho", "loc")).
+atom(entity(33, "albert o  harjula", "peop")).
+atom(entity(33, "thomaston", "loc")).
+atom(entity(33, "paul fournier", "peop")).
+atom(entity(33, "state department of inland fisheries and wildlife", "org")).
+atom(entity(34, "savannah river", "loc")).
+atom(entity(34, "energy department", "org")).
+atom(entity(34, "idaho falls", "loc")).
+atom(entity(34, "idaho", "loc")).
+atom(entity(35, "president nixon", "peop")).
+atom(entity(35, "watergate", "other")).
+atom(entity(35, "u s", "loc")).
+atom(entity(35, "bush administration", "org")).
+atom(entity(36, "ralph k  winter", "peop")).
+atom(entity(36, "2nd u s  circuit court of appeals", "org")).
+atom(entity(36, "new york", "loc")).
+atom(entity(36, "kenneth starr", "peop")).
+atom(entity(36, "u s  circuit court of appeals for the district of columbia", "org")).
+atom(entity(36, "district of columbia", "loc")).
+atom(entity(36, "president reagan", "peop")).
+atom(entity(37, "reagan", "peop")).
+atom(entity(37, "40th anniversary", "other")).
+atom(entity(37, "normandy", "loc")).
+atom(entity(37, "omaha beach", "loc")).
+atom(entity(37, "normandy sector", "loc")).
+atom(entity(38, "darryl breniser", "peop")).
+atom(entity(38, "blue ball", "loc")).
+atom(entity(39, "terry hands", "peop")).
+atom(entity(39, "stratford-upon-avon", "loc")).
+atom(entity(39, "london", "loc")).
+atom(entity(39, "barbican", "loc")).
+atom(entity(40, "nashville", "loc")).
+atom(entity(40, "tenn", "loc")).
+atom(entity(41, "tunis", "loc")).
+atom(entity(41, "tunisia", "loc")).
+atom(entity(41, "ap", "org")).
+atom(entity(42, "gadhafi", "peop")).
+atom(entity(42, "foreign ministers", "other")).
+atom(entity(42, "u s  navy", "org")).
+atom(entity(42, "libyan jets", "other")).
+atom(entity(42, "american officials", "peop")).
+atom(entity(42, "u s  craft", "other")).
+atom(entity(43, "u s", "loc")).
+atom(entity(43, "arab league", "org")).
+atom(entity(43, "chedli klibi", "peop")).
+atom(entity(44, "abrams", "peop")).
+atom(entity(44, "latin america bureau", "org")).
+atom(entity(44, "president-elect bush", "peop")).
+atom(entity(45, "king", "peop")).
+atom(entity(45, "april 4 , 1968", "other")).
+atom(entity(45, "memphis", "loc")).
+atom(entity(45, "tenn", "loc")).
+atom(entity(45, "60th birthday", "other")).
+atom(entity(45, "sunday", "other")).
+atom(entity(45, "national holiday", "other")).
+atom(entity(45, "monday", "other")).
+atom(entity(45, "thursday", "other")).
+atom(entity(46, "soviet foreign eduard a  shevardnadze", "peop")).
+atom(entity(46, "china", "loc")).
+atom(entity(46, "chinese-soviet summit", "other")).
+atom(entity(46, "chinese television", "org")).
+atom(entity(47, "beijing", "loc")).
+atom(entity(47, "li", "peop")).
+atom(entity(47, "china", "loc")).
+atom(entity(47, "cambodian", "loc")).
+atom(entity(47, "vietnamese", "peop")).
+atom(entity(48, "cambodia", "loc")).
+atom(entity(48, "khmer rouge", "org")).
+atom(entity(49, "walesa", "peop")).
+atom(entity(49, "shipyard", "other")).
+atom(entity(49, "solidarity union movement", "org")).
+atom(entity(49, "1980", "other")).
+atom(entity(49, "poles", "peop")).
+atom(entity(50, "bradley first air", "org")).
+atom(entity(50, "ottawa", "loc")).
+atom(entity(50, "canada", "loc")).
+atom(entity(50, "montreal", "loc")).
+atom(entity(50, "emery air freight corp", "org")).
+atom(entity(50, "dayton airport", "loc")).
+atom(entity(51, "eastport international", "org")).
+atom(entity(51, "upper marlboro", "loc")).
+atom(entity(51, "md", "loc")).
+atom(entity(51, "challenger", "other")).
+atom(entity(51, "gemini 6000", "other")).
+atom(entity(52, "sultan al-saud", "peop")).
+atom(entity(52, "saudi arabia", "loc")).
+atom(entity(52, "rodolfo neri vela", "peop")).
+atom(entity(52, "mexican", "other")).
+atom(entity(53, "rocky mountains", "loc")).
+atom(entity(53, "montana", "loc")).
+atom(entity(53, "livingston", "loc")).
+atom(entity(54, "folke nyberg", "peop")).
+atom(entity(54, "professor", "other")).
+atom(entity(54, "urban planning", "other")).
+atom(entity(54, "architecture", "other")).
+atom(entity(54, "university of washington", "org")).
+atom(entity(54, "seattle", "loc")).
+atom(entity(54, "pacific rim", "loc")).
+atom(entity(55, "seattle", "loc")).
+atom(entity(55, "puget sound", "loc")).
+atom(entity(55, "lake washington", "loc")).
+atom(entity(56, "chicago", "loc")).
+atom(entity(56, "u s", "loc")).
+atom(entity(56, "william j  bennett", "peop")).
+atom(entity(57, "samuel l  husk", "peop")).
+atom(entity(57, "council of great city schools", "org")).
+atom(entity(58, "navy", "org")).
+atom(entity(58, "lt  nettie johnson", "peop")).
+atom(entity(58, "aircraft", "other")).
+atom(entity(58, "check and drain valves", "other")).
+atom(entity(59, "u s  district", "org")).
+atom(entity(59, "g  ernest tidwell", "peop")).
+atom(entity(59, "november", "other")).
+atom(entity(59, "10 percent", "other")).
+atom(entity(60, "pemex", "org")).
+atom(entity(60, "francisco rojas", "peop")).
+atom(entity(60, "wednesday", "other")).
+atom(entity(60, "crude oil", "other")).
+atom(entity(60, "gasoline", "other")).
+atom(entity(60, "petrochemicals", "other")).
+atom(entity(61, "notimex", "org")).
+atom(entity(61, "ricardo camero cardiel", "peop")).
+atom(entity(61, "ciudad madero", "loc")).
+atom(entity(62, "aussedat-rey sa", "org")).
+atom(entity(62, "europe", "loc")).
+atom(entity(62, "photocopy paper", "other")).
+atom(entity(63, "international paper", "org")).
+atom(entity(63, "ann silvernail", "peop")).
+atom(entity(63, "french", "loc")).
+atom(entity(64, "giessen", "loc")).
+atom(entity(64, "west germany", "loc")).
+atom(entity(64, "ap", "org")).
+atom(entity(65, "minox", "org")).
+atom(entity(65, "leica", "org")).
+atom(entity(65, "wetzlar", "loc")).
+atom(entity(65, "rollei", "org")).
+atom(entity(65, "braunschweig", "loc")).
+atom(entity(66, "leica", "org")).
+atom(entity(66, "hans guenther von zydowitz", "peop")).
+atom(entity(66, "ap", "org")).
+atom(entity(66, "last year", "other")).
+atom(entity(66, "60 6 million", "other")).
+atom(entity(67, "scott hinton", "peop")).
+atom(entity(67, "elders futures inc", "org")).
+atom(entity(67, "december", "other")).
+atom(entity(68, "james k  batten", "peop")).
+atom(entity(68, "knight-ridder", "org")).
+atom(entity(69, "middletown", "loc")).
+atom(entity(69, "eaglebrook east", "org")).
+atom(entity(69, "eaglebrook plastics inc", "org")).
+atom(entity(69, "chicago", "loc")).
+atom(entity(70, "beirut", "loc")).
+atom(entity(70, "lebanon", "loc")).
+atom(entity(70, "ap", "org")).
+atom(entity(71, "organization of the oppressed on earth", "org")).
+atom(entity(71, "u s  marine", "org")).
+atom(entity(71, "lt  william r  higgins", "peop")).
+atom(entity(72, "god", "other")).
+atom(entity(72, "america", "loc")).
+atom(entity(72, "zionist enemy", "org")).
+atom(entity(72, "higgins", "peop")).
+atom(entity(72, "sheik abdul karim obeid", "peop")).
+atom(entity(72, "zul hijja", "other")).
+atom(entity(72, "hegira", "other")).
+atom(entity(72, "july 31, 1989", "other")).
+atom(entity(73, "john jamison", "peop")).
+atom(entity(73, "national weather service", "org")).
+atom(entity(73, "galveston", "loc")).
+atom(entity(74, "pat epps", "peop")).
+atom(entity(74, "greenland expedition society", "org")).
+atom(entity(74, "greenland", "loc")).
+atom(entity(74, "1942", "other")).
+atom(entity(75, "vaughan", "peop")).
+atom(entity(75, "dog musher", "other")).
+atom(entity(75, "army air force", "org")).
+atom(entity(75, "1942", "other")).
+atom(entity(76, "israeli", "org")).
+atom(entity(76, "united states", "loc")).
+atom(entity(76, "mrs  say", "peop")).
+atom(entity(76, "cadiz", "loc")).
+atom(entity(76, "kentucky", "loc")).
+atom(entity(77, "new orleans", "loc")).
+atom(entity(77, "ap", "org")).
+atom(entity(78, "pacific marine inc", "org")).
+atom(entity(78, "houston", "loc")).
+atom(entity(78, "grand isle", "loc")).
+atom(entity(79, "sandi sacher", "peop")).
+atom(entity(79, "federal government", "org")).
+atom(entity(79, "wildfire command post", "org")).
+atom(entity(79, "boise", "loc")).
+atom(entity(79, "idaho", "loc")).
+atom(entity(80, "west", "loc")).
+atom(entity(80, "alaska", "loc")).
+atom(entity(80, "1988", "other")).
+atom(entity(80, "u s", "loc")).
+atom(entity(80, "sacher", "peop")).
+atom(entity(81, "santa monica", "loc")).
+atom(entity(81, "tom van sant", "peop")).
+atom(entity(81, "monday", "other")).
+atom(entity(81, "23-foot-tall statue", "other")).
+atom(entity(82, "new hampshire", "loc")).
+atom(entity(82, "virginia", "loc")).
+atom(entity(82, "gerald baliles", "peop")).
+atom(entity(82, "democrat", "org")).
+atom(entity(83, "bush", "peop")).
+atom(entity(83, "sununu", "peop")).
+atom(entity(83, "virginia", "loc")).
+atom(entity(83, "baliles", "peop")).
+atom(entity(83, "association", "org")).
+atom(entity(84, "bush administration", "org")).
+atom(entity(84, "12-nation european community", "org")).
+atom(entity(84, "u s", "loc")).
+atom(entity(84, "europe", "loc")).
+atom(entity(84, "may", "other")).
+atom(entity(84, "100 million", "other")).
+atom(entity(85, "state department", "org")).
+atom(entity(85, "kenya", "loc")).
+atom(entity(85, "mombasa", "loc")).
+atom(entity(86, "china", "loc")).
+atom(entity(86, "shaw yu-ming", "peop")).
+atom(entity(86, "government information", "org")).
+atom(entity(86, "taiwan", "loc")).
+atom(entity(86, "washington", "loc")).
+atom(entity(87, "taiwan information center", "org")).
+atom(entity(87, "china", "loc")).
+atom(entity(87, "washington", "loc")).
+atom(entity(87, "national press building", "loc")).
+atom(entity(87, "u s", "loc")).
+atom(entity(87, "international news organizations", "org")).
+atom(entity(88, "phenergan", "other")).
+atom(entity(88, "wyeth-ayerst laboratories", "org")).
+atom(entity(88, "philadelphia", "loc")).
+atom(entity(89, "cape hatteras", "loc")).
+atom(entity(89, "n c", "loc")).
+atom(entity(89, "jacksonville", "loc")).
+atom(entity(89, "dodge city", "loc")).
+atom(entity(89, "kan", "loc")).
+atom(entity(90, "klamath falls", "loc")).
+atom(entity(90, "ore", "loc")).
+atom(entity(90, "yuma", "loc")).
+atom(entity(90, "ariz", "loc")).
+atom(entity(91, "fort lewis", "loc")).
+atom(entity(91, "wash", "loc")).
+atom(entity(91, "oregon", "loc")).
+atom(entity(92, "dave olson", "peop")).
+atom(entity(92, "payette national forest", "loc")).
+atom(entity(92, "idaho", "loc")).
+atom(entity(93, "northeastern oregon", "loc")).
+atom(entity(93, "la grande", "loc")).
+atom(entity(93, "authorities", "peop")).
+atom(entity(94, "wallowa-whitman", "loc")).
+atom(entity(94, "malheur national forests", "loc")).
+atom(entity(94, "baker", "loc")).
+atom(entity(94, "unity", "loc")).
+atom(entity(94, "enterprise", "loc")).
+atom(entity(94, "john day", "loc")).
+atom(entity(94, "forest service", "org")).
+atom(entity(94, "mike ferris", "peop")).
+atom(entity(95, "gop", "org")).
+atom(entity(95, "david fleischer", "peop")).
+atom(entity(95, "north miami", "loc")).
+atom(entity(95, "john stembridge", "peop")).
+atom(entity(96, "nrc", "org")).
+atom(entity(96, "doe", "org")).
+atom(entity(96, "robert bernero", "peop")).
+atom(entity(96, "commission", "org")).
+atom(entity(97, "khmer rouge", "org")).
+atom(entity(97, "khieu samphan", "peop")).
+atom(entity(97, "today", "other")).
+atom(entity(98, "monday", "other")).
+atom(entity(98, "one man", "peop")).
+atom(entity(98, "oil rig", "other")).
+atom(entity(98, "grand isle", "loc")).
+atom(entity(98, "la", "loc")).
+atom(entity(98, "storm", "other")).
+atom(entity(99, "port arthur", "loc")).
+atom(entity(99, "malcolm grant", "peop")).
+atom(entity(99, "sabine pass", "loc")).
+atom(entity(99, "louisiana", "loc")).
+atom(entity(100, "lutie dyson", "peop")).
+atom(entity(100, "her husband", "peop")).
+atom(entity(100, "a school", "other")).
+atom(entity(100, "lake charles", "loc")).
+atom(entity(100, "la", "loc")).
+atom(entity(101, "dem", "org")).
+atom(entity(101, "plastic ducks", "other")).
+atom(entity(101, "rhode island", "loc")).
+atom(entity(101, "warwick", "loc")).
+atom(entity(101, "pawtuxet river", "loc")).
+atom(entity(102, "jack frazier", "peop")).
+atom(entity(102, "rotary club", "org")).
+atom(entity(103, "tom defelice", "peop")).
+atom(entity(103, "warwick", "loc")).
+atom(entity(103, "disney world", "loc")).
+atom(entity(103, "florida", "loc")).
+atom(entity(104, "u s  district judge sherman finesilver", "peop")).
+atom(entity(104, "john c  keene", "peop")).
+atom(entity(104, "23-member panel", "other")).
+atom(entity(104, "18 months", "other")).
+atom(entity(105, "iowa", "loc")).
+atom(entity(105, "terry branstad", "peop")).
+atom(entity(105, "national governors  association", "org")).
+atom(entity(105, "booth gardner", "peop")).
+atom(entity(105, "washington", "loc")).
+atom(entity(106, "idaho", "loc")).
+atom(entity(106, "gov  cecil andrus", "peop")).
+atom(entity(107, "vietnam", "loc")).
+atom(entity(107, "cambodian government", "org")).
+atom(entity(107, "hun sen", "peop")).
+atom(entity(107, "u n", "org")).
+atom(entity(107, "secretary-general", "other")).
+atom(entity(107, "javier perez de cuellar", "peop")).
+atom(entity(108, "new england telephone", "org")).
+atom(entity(108, "xbt telecom", "org")).
+atom(entity(108, "talkabout", "other")).
+atom(entity(108, "john johnson", "peop")).
+atom(entity(109, "bernice mcintyre", "peop")).
+atom(entity(109, "public utilities commission", "org")).
+atom(entity(110, "u s  district court", "org")).
+atom(entity(110, "flight 007", "other")).
+atom(entity(110, "anchorage", "loc")).
+atom(entity(110, "alaska", "loc")).
+atom(entity(110, "pacific ocean", "loc")).
+atom(entity(110, "seoul", "loc")).
+atom(entity(110, "south korea", "loc")).
+atom(entity(111, "mason", "peop")).
+atom(entity(111, "congresswoman", "peop")).
+atom(entity(111, "hhs", "org")).
+atom(entity(111, "secretary louis sullivan", "peop")).
+atom(entity(112, "senate judiciary committee", "org")).
+atom(entity(112, "chairman", "other")).
+atom(entity(112, "joseph r  biden", "peop")).
+atom(entity(112, "d-del", "other")).
+atom(entity(112, "four hearings", "other")).
+atom(entity(112, "anti-flag burning proposals", "other")).
+atom(entity(113, "u s", "loc")).
+atom(entity(113, "pentagon", "org")).
+atom(entity(114, "revolutionary justice organization", "org")).
+atom(entity(114, "cicippio", "peop")).
+atom(entity(114, "beirut", "loc")).
+atom(entity(114, "an-nahar", "org")).
+atom(entity(115, "anderson", "peop")).
+atom(entity(115, "middle east", "loc")).
+atom(entity(115, "the associated press", "org")).
+atom(entity(115, "beirut", "loc")).
+atom(entity(115, "march 16", "other")).
+atom(entity(115, "1985", "other")).
+atom(entity(116, "jacobsen", "peop")).
+atom(entity(116, "colorado", "loc")).
+atom(entity(116, "london", "loc")).
+atom(entity(116, "anderson", "peop")).
+atom(entity(116, "iranian government", "org")).
+atom(entity(116, "saturday", "other")).
+atom(entity(117, "wyatt mccauley", "peop")).
+atom(entity(117, "ch2m hill", "org")).
+atom(entity(117, "denver", "loc")).
+atom(entity(118, "houston", "loc")).
+atom(entity(118, "ellington air force base", "loc")).
+atom(entity(118, "galveston", "loc")).
+atom(entity(118, "texas", "loc")).
+atom(entity(119, "william p  albrecht", "peop")).
+atom(entity(119, "commodity futures trading commission", "org")).
+atom(entity(120, "manygate management", "org")).
+atom(entity(120, "ogdon", "peop")).
+atom(entity(120, "london", "loc")).
+atom(entity(120, "charing cross hospital", "org")).
+atom(entity(120, "monday", "other")).
+atom(entity(120, "bronchopneumonia", "other")).
+atom(entity(121, "debra sweiger", "peop")).
+atom(entity(121, "issaquah", "loc")).
+atom(entity(121, "king county", "loc")).
+atom(entity(121, "o investigator vaughn van zant", "peop")).
+atom(entity(122, "u s", "loc")).
+atom(entity(122, "mike norton", "peop")).
+atom(entity(122, "ken fimberg", "peop")).
+atom(entity(122, "denver", "loc")).
+atom(entity(122, "peter murtha", "peop")).
+atom(entity(122, "justice department", "org")).
+atom(entity(122, "washington", "loc")).
+atom(entity(123, "kim dae-jung", "peop")).
+atom(entity(123, "south korea", "loc")).
+atom(entity(123, "opposition party", "org")).
+atom(entity(123, "north korea", "loc")).
+atom(entity(124, "washington state", "loc")).
+atom(entity(124, "cascade range", "loc")).
+atom(entity(124, "canadian border", "loc")).
+atom(entity(124, "greg thayer", "peop")).
+atom(entity(124, "u s  forest service", "org")).
+atom(entity(125, "california", "loc")).
+atom(entity(125, "sierra nevada", "loc")).
+atom(entity(125, "firefighters", "peop")).
+atom(entity(125, "tuesday", "other")).
+atom(entity(125, "11,700 acres", "other")).
+atom(entity(125, "brush and grassland", "other")).
+atom(entity(125, "seven homes", "other")).
+atom(entity(126, "michael harrington", "peop")).
+atom(entity(126, "city university", "org")).
+atom(entity(126, "joseph s  murphy", "peop")).
+atom(entity(127, "west", "loc")).
+atom(entity(127, "idaho", "loc")).
+atom(entity(127, "oregon", "loc")).
+atom(entity(127, "california", "loc")).
+atom(entity(127, "washington", "loc")).
+atom(entity(127, "boise interagency fire center", "org")).
+atom(entity(128, "idaho", "loc")).
+atom(entity(128, "gov  cecil andrus", "peop")).
+atom(entity(129, "ap laserphoto network", "org")).
+atom(entity(129, "jeff widener", "peop")).
+atom(entity(129, "bangkok", "loc")).
+atom(entity(130, "bangkok", "loc")).
+atom(entity(130, "klong toey", "loc")).
+atom(entity(131, "arensberg", "peop")).
+atom(entity(131, "ofer bar-yosef", "peop")).
+atom(entity(131, "harvard university", "org")).
+atom(entity(131, "bernard vandermeersch", "peop")).
+atom(entity(131, "university of bordeaux", "org")).
+atom(entity(131, "france", "loc")).
+atom(entity(131, "kebara", "loc")).
+atom(entity(131, "six years", "other")).
+atom(entity(132, "sen  carlos tenev", "peop")).
+atom(entity(132, "peronist party", "org")).
+atom(entity(132, "peron", "peop")).
+atom(entity(133, "guernsey", "loc")).
+atom(entity(133, "britain", "loc")).
+atom(entity(133, "channel islands", "loc")).
+atom(entity(133, "france", "loc")).
+atom(entity(134, "wharf holdings", "org")).
+atom(entity(134, "hong kong", "loc")).
+atom(entity(135, "jack macallister", "peop")).
+atom(entity(135, "u s west inc", "org")).
+atom(entity(135, "hong kong", "loc")).
+atom(entity(136, "lawrence kane jr", "peop")).
+atom(entity(136, "cincinnati", "loc")).
+atom(entity(136, "ohio", "loc")).
+atom(entity(136, "home state", "org")).
+atom(entity(137, "jean-luckenson", "peop")).
+atom(entity(137, "signal fm", "org")).
+atom(entity(138, "mexican southeast", "loc")).
+atom(entity(138, "ccri-cg of the ezln", "org")).
+atom(entity(138, "mexico", "loc")).
+atom(entity(138, "march 1994", "other")).
+atom(entity(139, "iranian plane crash", "other")).
+atom(entity(139, "experts", "peop")).
+atom(entity(139, "moscow", "loc")).
+atom(entity(139, "itar-tass", "org")).
+atom(entity(139, "english", "other")).
+atom(entity(139, "21 mar 94", "other")).
+atom(entity(140, "moscow", "loc")).
+atom(entity(140, "itar-tass", "org")).
+atom(entity(141, "armenian airspace", "loc")).
+atom(entity(141, "tehran", "loc")).
+atom(entity(141, "stepanakert", "loc")).
+atom(entity(141, "nagorno-karabakh", "loc")).
+atom(entity(141, "azerbaijan", "loc")).
+atom(entity(142, "national alliance", "org")).
+atom(entity(142, "gianfranco fini", "peop")).
+atom(entity(143, "namialo assembly area", "loc")).
+atom(entity(143, "nampula province", "loc")).
+atom(entity(143, "government soldiers", "peop")).
+atom(entity(143, "northern improvement brigade", "org")).
+atom(entity(143, "brigada de melhoramentos do norte", "org")).
+atom(entity(143, "bmn", "org")).
+atom(entity(143, "nampula provincial command", "org")).
+atom(entity(144, "expanded equilibrium", "other")).
+atom(entity(144, "framework talks", "other")).
+atom(entity(144, "tokyo", "loc")).
+atom(entity(144, "nihon keizai shimbun", "org")).
+atom(entity(144, "japanese", "other")).
+atom(entity(144, "6 feb 94", "other")).
+atom(entity(144, "morning edition", "other")).
+atom(entity(144, "p 2", "other")).
+atom(entity(145, "serb radical party", "org")).
+atom(entity(145, "assembly", "org")).
+atom(entity(145, "branko vojnic", "peop")).
+atom(entity(145, "beli manastir", "loc")).
+atom(entity(145, "marko atlagic", "peop")).
+atom(entity(145, "dr  milan ernjakovic", "peop")).
+atom(entity(145, "krajina serb democratic party", "org")).
+atom(entity(146, "bsp", "org")).
+atom(entity(146, "sds", "org")).
+atom(entity(146, "bosnia", "loc")).
+atom(entity(146, "sofia", "loc")).
+atom(entity(146, "bta", "org")).
+atom(entity(147, "havana", "loc")).
+atom(entity(147, "radio rebelde network", "org")).
+atom(entity(148, "security forces", "org")).
+atom(entity(148, "paris", "loc")).
+atom(entity(148, "afp", "org")).
+atom(entity(148, "english", "other")).
+atom(entity(148, "3 feb 94", "other")).
+atom(entity(149, "israeli aircraft", "org")).
+atom(entity(149, "iqlim al-tuffah", "loc")).
+atom(entity(149, "beirut radio lebanon", "org")).
+atom(entity(149, "arabic", "other")).
+atom(entity(149, "0900 gmt", "other")).
+atom(entity(149, "15 feb 94", "other")).
+atom(entity(150, "dutch air force", "org")).
+atom(entity(150, "bosnia", "loc")).
+atom(entity(150, "the hague", "loc")).
+atom(entity(150, "anp", "org")).
+atom(entity(150, "feb", "other")).
+atom(entity(150, "94", "other")).
+atom(entity(151, "arrow missile program", "other")).
+atom(entity(151, "94aa0008z", "other")).
+atom(entity(151, "jerusalem", "loc")).
+atom(entity(151, "the jerusalem post", "org")).
+atom(entity(151, "english", "other")).
+atom(entity(151, "15 oct 93", "other")).
+atom(entity(152, "jerusalem", "loc")).
+atom(entity(152, "the jerusalem post", "org")).
+atom(entity(153, "gerald steinberg", "peop")).
+atom(entity(153, "bar-ilan university", "org")).
+atom(entity(154, "steven bryen", "peop")).
+atom(entity(154, "pentagon", "org")).
+atom(entity(154, "u s", "loc")).
+atom(entity(155, "pedatzur", "peop")).
+atom(entity(155, "massachusetts institute of technology", "org")).
+atom(entity(156, "north korean", "peop")).
+atom(entity(156, "australian", "peop")).
+atom(entity(156, "australian embassies", "org")).
+atom(entity(156, "jakarta", "loc")).
+atom(entity(156, "bangkok", "loc")).
+atom(entity(156, "federal government", "org")).
+atom(entity(156, "united states", "loc")).
+atom(entity(156, "japan", "loc")).
+atom(entity(156, "south korea", "loc")).
+atom(entity(157, "australian government", "org")).
+atom(entity(157, "north korean government", "org")).
+atom(entity(157, "australia", "loc")).
+atom(entity(158, "government", "org")).
+atom(entity(158, "august", "other")).
+atom(entity(158, "north korea", "loc")).
+atom(entity(158, "nuclear nonproliferation treaty", "other")).
+atom(entity(158, "yongbyon", "loc")).
+atom(entity(159, "nova scotia", "loc")).
+atom(entity(159, "prime minister", "other")).
+atom(entity(159, "john savage", "peop")).
+atom(entity(159, "canadian", "other")).
+atom(entity(159, "cuba", "loc")).
+atom(entity(159, "cuban", "other")).
+atom(entity(159, "ricardo cabrisas", "peop")).
+atom(entity(160, "miguel rodriguez mendoza", "peop")).
+atom(entity(160, "ice", "org")).
+atom(entity(160, "u s  environmental protection agency", "org")).
+atom(entity(160, "venezuela", "loc")).
+atom(entity(160, "gatt article iii", "other")).
+atom(entity(160, "national treaty", "other")).
+atom(entity(161, "s  gusak", "peop")).
+atom(entity(161, "belarusian", "other")).
+atom(entity(162, "esprit project", "org")).
+atom(entity(162, "chip", "other")).
+atom(entity(162, "nerve impulses", "other")).
+atom(entity(162, "94ws0095b", "other")).
+atom(entity(162, "duesseldorf", "loc")).
+atom(entity(162, "handelsblatt", "org")).
+atom(entity(162, "german", "other")).
+atom(entity(162, "11 nov 93", "other")).
+atom(entity(162, "p 22", "other")).
+atom(entity(163, "jordi aguil oacute", "peop")).
+atom(entity(163, "cnm", "org")).
+atom(entity(164, "santiago", "loc")).
+atom(entity(164, "efe", "org")).
+atom(entity(164, "25 december", "other")).
+atom(entity(164, "finandes", "org")).
+atom(entity(164, "stock exchange district", "loc")).
+atom(entity(164, "chilean city of valparaiso", "loc")).
+atom(entity(165, "rio de janeiro", "loc")).
+atom(entity(165, "o globo", "org")).
+atom(entity(166, "sao paulo", "loc")).
+atom(entity(166, "sao paulo state attorney s office", "org")).
+atom(entity(166, "institute for nuclear and energy research", "org")).
+atom(entity(166, "ipen", "org")).
+atom(entity(166, "national nuclear energy commission", "org")).
+atom(entity(166, "cnen", "org")).
+atom(entity(167, "association of ipen employees", "org")).
+atom(entity(167, "assipen", "org")).
+atom(entity(167, "federal employees union", "org")).
+atom(entity(167, "sao paulo", "loc")).
+atom(entity(167, "sindisef", "org")).
+atom(entity(167, "ipen employees", "peop")).
+atom(entity(167, "iodine-131", "other")).
+atom(entity(168, "guatemala city", "loc")).
+atom(entity(168, "teleonce television", "org")).
+atom(entity(169, "yuriy kuzmenko", "peop")).
+atom(entity(169, "stanislav mikhaylovich korochkin", "peop")).
+atom(entity(169, "magadan basin okhotrybvod", "org")).
+atom(entity(169, "okhotsk sea fishing administration", "org")).
+atom(entity(169, "washington", "loc")).
+atom(entity(169, "okhotsk sea", "loc")).
+atom(entity(169, "bering sea", "loc")).
+atom(entity(170, "helsinki", "loc")).
+atom(entity(170, "suomen yleisradio network", "org")).
+atom(entity(171, "lima", "loc")).
+atom(entity(171, "el comercio", "org")).
+atom(entity(171, "spanish", "other")).
+atom(entity(171, "19 mar 94", "other")).
+atom(entity(171, "p a8", "other")).
+atom(entity(172, "mangunchay irrigation project", "other")).
+atom(entity(172, "san ignacio forest", "loc")).
+atom(entity(172, "jaen", "loc")).
+atom(entity(172, "san ignacio de cajamarca", "loc")).
+atom(entity(173, "huancabamba", "loc")).
+atom(entity(173, "piura", "loc")).
+atom(entity(173, "bagua", "loc")).
+atom(entity(173, "condorcanqui", "loc")).
+atom(entity(173, "amazonas", "loc")).
+atom(entity(173, "san martin department", "loc")).
+atom(entity(173, "nueva cajamarca", "loc")).
+atom(entity(173, "rioja", "loc")).
+atom(entity(173, "soritor", "loc")).
+atom(entity(173, "mayo", "loc")).
+atom(entity(173, "sisa", "loc")).
+atom(entity(173, "biabo", "loc")).
+atom(entity(174, "kiev", "loc")).
+atom(entity(174, "pravda ukrainy", "org")).
+atom(entity(174, "russian", "other")).
+atom(entity(174, "5 apr 94", "other")).
+atom(entity(175, "ivan plyushch", "peop")).
+atom(entity(175, "ukrainian", "org")).
+atom(entity(176, "beijing", "loc")).
+atom(entity(176, "jingji yanjiu", "org")).
+atom(entity(177, "beijing", "loc")).
+atom(entity(177, "xinhua", "org")).
+atom(entity(177, "national people s congress", "org")).
+atom(entity(177, "china", "loc")).
+atom(entity(177, "state science and technology commission", "org")).
+atom(entity(177, "deng nan", "peop")).
+atom(entity(178, "deng nan", "peop")).
+atom(entity(178, "china", "loc")).
+atom(entity(178, "21st century agenda", "other")).
+atom(entity(179, "united states", "loc")).
+atom(entity(179, "u s  congress", "org")).
+atom(entity(180, "march", "other")).
+atom(entity(180, "ldp", "org")).
+atom(entity(180, "kim pom-myon", "peop")).
+atom(entity(180, "nonsan county", "loc")).
+atom(entity(181, "kakizawa", "peop")).
+atom(entity(181, "hata", "peop")).
+atom(entity(181, "north korean president kim il-song", "peop")).
+atom(entity(181, "north korea", "loc")).
+atom(entity(181, "nuclear weapons", "other")).
+atom(entity(182, "bangkok", "loc")).
+atom(entity(182, "bangkok post", "org")).
+atom(entity(183, "mexico city", "loc")).
+atom(entity(183, "la jornada", "org")).
+atom(entity(184, "pri", "org")).
+atom(entity(184, "ernesto zedillo ponce de leon", "peop")).
+atom(entity(184, "valley of mexico", "loc")).
+atom(entity(184, "mexico", "loc")).
+atom(entity(185, "algiers", "loc")).
+atom(entity(185, "entv television network", "org")).
+atom(entity(185, "arabic", "other")).
+atom(entity(185, "1200 gmt", "other")).
+atom(entity(185, "28 may 94", "other")).
+atom(entity(186, "algiers", "loc")).
+atom(entity(186, "entv television network", "org")).
+atom(entity(187, "moscow", "loc")).
+atom(entity(187, "nezavisimaya gazeta", "org")).
+atom(entity(187, "23 jun 94", "other")).
+atom(entity(187, "p 3", "other")).
+atom(entity(188, "madras", "loc")).
+atom(entity(188, "the hindu", "org")).
+atom(entity(189, "panama city", "loc")).
+atom(entity(189, "acan", "org")).
+atom(entity(190, "johannesburg", "loc")).
+atom(entity(190, "sapa", "org")).
+atom(entity(191, "parliament", "org")).
+atom(entity(191, "may 9", "other")).
+atom(entity(191, "sapa", "org")).
+atom(entity(191, "nelson rohihlahla mandela", "peop")).
+atom(entity(191, "president", "other")).
+atom(entity(191, "republic of south africa", "loc")).
+atom(entity(191, "12 14am", "other")).
+atom(entity(191, "monday", "other")).
+atom(entity(191, "9 may", "other")).
+atom(entity(192, "nairobi", "loc")).
+atom(entity(192, "kna", "org")).
+atom(entity(192, "english", "other")).
+atom(entity(192, "0945 gmt", "other")).
+atom(entity(192, "26 may 94", "other")).
+atom(entity(193, "prime datuk sri dr  mahathir", "peop")).
+atom(entity(193, "african national congress", "org")).
+atom(entity(193, "anc", "org")).
+atom(entity(193, "nelson mandela", "peop")).
+atom(entity(193, "president de klerk", "peop")).
+atom(entity(193, "south africa", "loc")).
+atom(entity(194, "nub", "org")).
+atom(entity(194, "kim hyong-ki", "peop")).
+atom(entity(194, "north korea", "loc")).
+atom(entity(194, "iaea", "org")).
+atom(entity(195, "bratislava", "loc")).
+atom(entity(195, "slovak foreign ministry", "org")).
+atom(entity(195, "budapest", "loc")).
+atom(entity(195, "gabcikovo derivation canal", "loc")).
+atom(entity(195, "slovakia", "loc")).
+atom(entity(195, "danube", "loc")).
+atom(entity(195, "hungarian embassy", "org")).
+atom(entity(195, "ctk", "org")).
+atom(entity(196, "ortega", "peop")).
+atom(entity(196, "rene steichen", "peop")).
+atom(entity(196, "european agricultural official", "org")).
+atom(entity(196, "eu headquarters", "loc")).
+atom(entity(196, "brussels", "loc")).
+atom(entity(196, "eu", "org")).
+atom(entity(197, "plo", "org")).
+atom(entity(197, "yasir  arafat", "peop")).
+atom(entity(197, "sa  id mu  addi", "peop")).
+atom(entity(197, "cairo", "loc")).
+atom(entity(197, "18 may", "other")).
+atom(entity(197, "with the midday events", "other")).
+atom(entity(197, "dr  nabil", "peop")).
+atom(entity(198, "pacific fleet", "org")).
+atom(entity(198, "georgiy gurinov", "peop")).
+atom(entity(199, "moscow", "loc")).
+atom(entity(199, "tass", "org")).
+atom(entity(199, "middle east and africa department", "org")).
+atom(entity(199, "russian foreign ministry", "org")).
+atom(entity(199, "viktor posuvalyuk", "peop")).
+atom(entity(199, "itar-tass", "org")).
+atom(entity(199, "russians", "peop")).
+atom(entity(199, "algeria", "loc")).
+atom(entity(199, "russian specialists", "peop")).
+atom(entity(199, "employees", "peop")).
+atom(entity(199, "organisations", "org")).
+atom(entity(200, "russia", "loc")).
+atom(entity(200, "scientists", "peop")).
+atom(entity(200, "russian center for problems of national security and international relations", "org")).
+atom(entity(200, "professor", "peop")).
+atom(entity(200, "doctor of historical sciences sergey rogov", "peop")).
+atom(entity(200, "33-page report", "other")).
+atom(entity(200, "partnership for peace and russia s interests", "other")).
+atom(entity(201, "chisinau", "loc")).
+atom(entity(201, "basapress", "org")).
+atom(entity(201, "english", "other")).
+atom(entity(201, "gmt", "other")).
+atom(entity(201, "23 may 94", "other")).
+atom(entity(202, "chisinau", "loc")).
+atom(entity(202, "basapress", "org")).
+atom(entity(202, "23 5 1994", "other")).
+atom(entity(202, "president mircea snegur", "peop")).
+atom(entity(202, "agrarian democratic party of moldova", "org")).
+atom(entity(202, "pdam", "org")).
+atom(entity(202, "valentin krylov", "peop")).
+atom(entity(202, "socialist party", "org")).
+atom(entity(203, "federal administrative court", "org")).
+atom(entity(203, "berlin", "loc")).
+atom(entity(203, "kurds", "peop")).
+atom(entity(203, "federal republic", "loc")).
+atom(entity(203, "turkey", "loc")).
+atom(entity(204, "institute of organic chemistry of shanghai", "org")).
+atom(entity(204, "shanghai", "loc")).
+atom(entity(204, "nodrm-1", "other")).
+atom(entity(204, "azotobacteria", "other")).
+atom(entity(204, "bean plants", "other")).
+atom(entity(205, "kiev", "loc")).
+atom(entity(205, "holos ukrayiny", "org")).
+atom(entity(205, "ukrainian", "other")).
+atom(entity(205, "20 apr 94", "other")).
+atom(entity(206, "kiev", "loc")).
+atom(entity(206, "holos ukrayiny", "org")).
+atom(entity(207, "ukraine", "loc")).
+atom(entity(207, "soviet union", "org")).
+atom(entity(208, "warren commission", "org")).
+atom(entity(208, "nov  22 , 1963", "other")).
+atom(entity(208, "lee harvey oswald", "peop")).
+atom(entity(208, "kennedy", "peop")).
+atom(entity(208, "dallas county administration building", "loc")).
+atom(entity(209, "lapd", "org")).
+atom(entity(209, "robert f  kennedy", "peop")).
+atom(entity(209, "sirhan sirhan", "peop")).
+atom(entity(209, "eu", "peop")).
+atom(entity(210, "june 6", "other")).
+atom(entity(210, "1968", "other")).
+atom(entity(210, "robert f  kennedy", "peop")).
+atom(entity(210, "good samaritan hospital", "org")).
+atom(entity(210, "los angeles", "loc")).
+atom(entity(210, "ambassador hotel", "org")).
+atom(entity(210, "sirhan bishara sirhan", "peop")).
+atom(entity(211, "london", "loc")).
+atom(entity(211, "james earl ray", "peop")).
+atom(entity(211, "dr  martin luther king jr", "peop")).
+atom(entity(212, "warren commission", "org")).
+atom(entity(212, "oswald", "peop")).
+atom(entity(212, "kennedy", "peop")).
+atom(entity(212, "sixth floor", "other")).
+atom(entity(212, "dallas county administration building", "loc")).
+atom(entity(213, "house assassinations committee", "org")).
+atom(entity(213, "kennedy", "peop")).
+atom(entity(213, "warren commission", "org")).
+atom(entity(213, "lee harvey oswald", "peop")).
+atom(entity(213, "dallas", "loc")).
+atom(entity(213, "nov  22, 1963", "other")).
+atom(entity(214, "1964", "other")).
+atom(entity(214, "warren commission", "org")).
+atom(entity(214, "lee harvey oswald", "peop")).
+atom(entity(214, "president john f  kennedy", "peop")).
+atom(entity(215, "dallas", "loc")).
+atom(entity(215, "texas school book depository", "org")).
+atom(entity(215, "lee harvey oswald", "peop")).
+atom(entity(215, "kennedy", "peop")).
+atom(entity(215, "dealey plaza", "loc")).
+atom(entity(216, "president john f  kennedy", "peop")).
+atom(entity(216, "lee harvey oswald", "peop")).
+atom(entity(216, "oswald", "peop")).
+atom(entity(217, "charles j  guiteau", "peop")).
+atom(entity(217, "president james garfield", "peop")).
+atom(entity(217, "1881", "other")).
+atom(entity(218, "nov  24", "other")).
+atom(entity(218, "1963", "other")).
+atom(entity(218, "dallas", "loc")).
+atom(entity(218, "jack ruby", "peop")).
+atom(entity(218, "lee harvey oswald", "peop")).
+atom(entity(218, "president john f  kennedy", "peop")).
+atom(entity(218, "dallas municipal building", "loc")).
+atom(entity(218, "county jail", "loc")).
+atom(entity(219, "john martini", "peop")).
+atom(entity(219, "therese afdahl", "peop")).
+atom(entity(219, "fort lee", "loc")).
+atom(entity(219, "irving flax", "peop")).
+atom(entity(220, "texas school book depository", "loc")).
+atom(entity(220, "lee harvard oswald", "peop")).
+atom(entity(220, "president john f  kennedy", "peop")).
+atom(entity(221, "dallas", "loc")).
+atom(entity(221, "danny veno", "peop")).
+atom(entity(221, "lee harvey oswald", "peop")).
+atom(entity(221, "president kennedy", "peop")).
+atom(entity(222, "sirhan sirhan", "peop")).
+atom(entity(222, "new york", "loc")).
+atom(entity(222, "robert f  kennedy", "peop")).
+atom(entity(223, "sirhan sirhan", "peop")).
+atom(entity(223, "sen  robert f  kennedy", "peop")).
+atom(entity(223, "tuesday", "other")).
+atom(entity(224, "robert f  kennedy", "peop")).
+atom(entity(224, "sirhan b  sirhan", "peop")).
+atom(entity(224, "state prison board", "org")).
+atom(entity(225, "kennedy", "peop")).
+atom(entity(225, "sirhan bishara sirhan", "peop")).
+atom(entity(226, "washington, d c", "loc")).
+atom(entity(226, "john wilkes booth", "peop")).
+atom(entity(226, "president abraham lincoln", "peop")).
+atom(entity(227, "jean paul marat", "peop")).
+atom(entity(227, "charlotte corday", "peop")).
+atom(entity(228, "1978", "other")).
+atom(entity(228, "james earl ray", "peop")).
+atom(entity(228, "dr  martin luther king jr", "peop")).
+atom(entity(228, "capitol hill", "loc")).
+atom(entity(228, "raoul", "peop")).
+atom(entity(229, "warren commission", "org")).
+atom(entity(229, "lee harvey oswald", "peop")).
+atom(entity(229, "president john f  kennedy", "peop")).
+atom(entity(229, "november 1963", "other")).
+atom(entity(230, "ray", "peop")).
+atom(entity(230, "king", "peop")).
+atom(entity(230, "april 4, 1968", "other")).
+atom(entity(230, "memphis", "loc")).
+atom(entity(230, "tenn", "loc")).
+atom(entity(231, "april 14", "other")).
+atom(entity(231, "ford theatre", "loc")).
+atom(entity(231, "washington", "loc")).
+atom(entity(231, "lincoln", "peop")).
+atom(entity(231, "john wilkes booth", "peop")).
+atom(entity(231, "virginia", "loc")).
+atom(entity(232, "james earl ray", "peop")).
+atom(entity(232, "99-year prison sentence", "other")).
+atom(entity(232, "martin luther king jr", "peop")).
+atom(entity(232, "wife", "peop")).
+atom(entity(232, "12 years", "other")).
+atom(entity(233, "james earl ray", "peop")).
+atom(entity(233, "memphis", "loc")).
+atom(entity(233, "tenn", "loc")).
+atom(entity(233, "martin luther king jr", "peop")).
+atom(entity(234, "dallas", "loc")).
+atom(entity(234, "jack ruby", "peop")).
+atom(entity(234, "lee harvey oswald", "peop")).
+atom(entity(234, "president kennedy", "peop")).
+atom(entity(235, "sirhan b  sirhan", "peop")).
+atom(entity(235, "sen  robert f  kennedy", "peop")).
+atom(entity(235, "tuesday", "other")).
+atom(entity(236, "belli", "peop")).
+atom(entity(236, "jack ruby", "peop")).
+atom(entity(236, "john f  kennedy", "peop")).
+atom(entity(236, "lee harvey oswald", "peop")).
+atom(entity(236, "jim bakker", "peop")).
+atom(entity(236, "tammy bakker", "peop")).
+atom(entity(237, "oswald", "peop")).
+atom(entity(237, "theater", "other")).
+atom(entity(237, "nov  22 , 1963", "other")).
+atom(entity(237, "kennedy", "peop")).
+atom(entity(237, "dallas", "loc")).
+atom(entity(238, "south korean", "loc")).
+atom(entity(238, "president park chung-hee", "peop")).
+atom(entity(238, "korean central intelligence agency", "org")).
+atom(entity(238, "kim jae-kyu", "peop")).
+atom(entity(239, "chapman", "peop")).
+atom(entity(239, "lennon", "peop")).
+atom(entity(240, "mark david chapman", "peop")).
+atom(entity(240, "john lennon", "peop")).
+atom(entity(241, "lennon", "peop")).
+atom(entity(241, "his wife", "peop")).
+atom(entity(241, "new york", "loc")).
+atom(entity(241, "dakota building", "loc")).
+atom(entity(241, "dec  8, 1980", "other")).
+atom(entity(241, "mark david chapman", "peop")).
+atom(entity(241, "fan", "other")).
+atom(entity(242, "lennon", "peop")).
+atom(entity(242, "ono", "peop")).
+atom(entity(242, "mark david chapman", "peop")).
+atom(entity(242, "ex-beatle", "other")).
+atom(entity(243, "kleber elias gia bustamante", "peop")).
+atom(entity(243, "red sun", "org")).
+atom(entity(243, "garcia moreno prison", "loc")).
+atom(entity(243, "jose antonio briz lopez", "peop")).
+atom(entity(244, "james earl ray", "peop")).
+atom(entity(244, "martin luther king", "peop")).
+atom(entity(244, "memphis", "loc")).
+atom(entity(245, "sandinistas", "org")).
+atom(entity(245, "stadium", "other")).
+atom(entity(245, "rigoberto lopez perez", "peop")).
+atom(entity(245, "somoza garcia", "peop")).
+atom(entity(246, "sirhan b  sirhan", "peop")).
+atom(entity(246, "sen  robert f  kennedy", "peop")).
+atom(entity(246, "middle eastern", "other")).
+atom(entity(247, "sirhan", "peop")).
+atom(entity(247, "kennedy", "peop")).
+atom(entity(247, "israel", "loc")).
+atom(entity(247, "markman", "peop")).
+atom(entity(248, "diamond", "peop")).
+atom(entity(248, "sen  robert f  kennedy", "peop")).
+atom(entity(248, "sirhan sirhan", "peop")).
+atom(entity(249, "lyndon b  johnson", "peop")).
+atom(entity(249, "jack ruby", "peop")).
+atom(entity(249, "oswald", "peop")).
+atom(entity(250, "lee harvey oswald", "peop")).
+atom(entity(250, "president kennedy", "peop")).
+atom(entity(250, "county offices", "org")).
+atom(entity(250, "sixth floor", "loc")).
+atom(entity(250, "museum", "org")).
+atom(entity(250, "exhibits", "other")).
+atom(entity(250, "assassination", "other")).
+atom(entity(251, "mccord", "peop")).
+atom(entity(251, "president nixon", "peop")).
+atom(entity(251, "1972 campaign", "other")).
+atom(entity(251, "mr  fensterwald", "peop")).
+atom(entity(251, "james earl ray", "peop")).
+atom(entity(251, "rev  martin luther king jr", "peop")).
+atom(entity(252, "ruby", "peop")).
+atom(entity(252, "oswald", "peop")).
+atom(entity(252, "dallas city jail", "loc")).
+atom(entity(252, "nov  24 , 1963", "other")).
+atom(entity(252, "president kennedy", "peop")).
+atom(entity(253, "abraham lincoln", "peop")).
+atom(entity(253, "john wilkes booth", "peop")).
+atom(entity(253, "victor garber", "peop")).
+atom(entity(253, "barn", "other")).
+atom(entity(254, "dole", "peop")).
+atom(entity(254, "south", "loc")).
+atom(entity(254, "elizabeth", "peop")).
+atom(entity(254, "north carolina", "loc")).
+atom(entity(255, "dole", "peop")).
+atom(entity(255, "north carolina", "loc")).
+atom(entity(255, "southern", "loc")).
+atom(entity(255, "elizabeth dole", "peop")).
+atom(entity(255, "salisbury", "loc")).
+atom(entity(255, "n c", "loc")).
+atom(entity(255, "bush", "peop")).
+atom(entity(256, "columbia", "loc")).
+atom(entity(256, "s c", "loc")).
+atom(entity(256, "jesse jackson", "peop")).
+atom(entity(256, "sunday", "other")).
+atom(entity(256, "south carolina", "loc")).
+atom(entity(256, "democratic caucuses", "org")).
+atom(entity(257, "jesse jackson", "peop")).
+atom(entity(257, "democratic caucuses", "other")).
+atom(entity(257, "south carolina", "loc")).
+atom(entity(257, "tuesday", "other")).
+atom(entity(257, "illinois", "loc")).
+atom(entity(258, "lowell thomas", "peop")).
+atom(entity(258, "woodington", "loc")).
+atom(entity(258, "ohio", "loc")).
+atom(entity(259, "cbs news", "org")).
+atom(entity(259, "eric sevareid", "peop")).
+atom(entity(259, "velva", "loc")).
+atom(entity(259, "minot", "loc")).
+atom(entity(260, "1911", "other")).
+atom(entity(260, "38th u s  vice president", "other")).
+atom(entity(260, "hubert h  humphrey", "peop")).
+atom(entity(260, "wallace", "loc")).
+atom(entity(260, "s d", "loc")).
+atom(entity(260, "1929", "other")).
+atom(entity(260, "aviator", "other")).
+atom(entity(260, "charles lindbergh", "peop")).
+atom(entity(260, "anne spencer morrow", "peop")).
+atom(entity(260, "englewood", "loc")).
+atom(entity(260, "n j", "loc")).
+atom(entity(260, "1935", "other")).
+atom(entity(260, "supreme court", "org")).
+atom(entity(260, "national industrial recovery act", "other")).
+atom(entity(261, "brigham young", "peop")).
+atom(entity(261, "whitingham", "loc")).
+atom(entity(261, "vt", "loc")).
+atom(entity(261, "mormon", "other")).
+atom(entity(261, "1801", "other")).
+atom(entity(262, "martin", "peop")).
+atom(entity(262, "jimbob", "other")).
+atom(entity(262, "rogers", "peop")).
+atom(entity(262, "oklahoma", "loc")).
+atom(entity(262, "will rogers", "peop")).
+atom(entity(263, "jesse owens", "peop")).
+atom(entity(263, "danville", "loc")).
+atom(entity(263, "ala", "loc")).
+atom(entity(263, "1913", "other")).
+atom(entity(264, "springsteen", "peop")).
+atom(entity(264, "new jersey", "loc")).
+atom(entity(264, "universal declaration of human rights", "other")).
+atom(entity(265, "20th president of the united states", "other")).
+atom(entity(265, "james garfield", "peop")).
+atom(entity(265, "orange", "loc")).
+atom(entity(265, "ohio", "loc")).
+atom(entity(266, "atwater", "peop")).
+atom(entity(266, "south carolina", "loc")).
+atom(entity(266, "president reagan", "peop")).
+atom(entity(266, "sen  strom thurmond", "peop")).
+atom(entity(267, "st  louis street", "loc")).
+atom(entity(267, "new orleans", "loc")).
+atom(entity(267, "fats domino", "peop")).
+atom(entity(267, "barbara hutson", "peop")).
+atom(entity(268, "buddy holly", "peop")).
+atom(entity(268, "texas tech university", "org")).
+atom(entity(268, "lubbock", "loc")).
+atom(entity(269, "john deere", "peop")).
+atom(entity(269, "1804", "other")).
+atom(entity(269, "rutland", "loc")).
+atom(entity(269, "vt", "loc")).
+atom(entity(269, "moldboard plow", "other")).
+atom(entity(270, "rev  jesse jackson", "peop")).
+atom(entity(270, "democratic precinct caucuses", "other")).
+atom(entity(270, "south carolina", "loc")).
+atom(entity(271, "18th president of the united states", "other")).
+atom(entity(271, "ulysses s  grant", "peop")).
+atom(entity(271, "point pleasant", "loc")).
+atom(entity(271, "ohio", "loc")).
+atom(entity(272, "james monroe", "peop")).
+atom(entity(272, "westmoreland county", "loc")).
+atom(entity(272, "virginia", "loc")).
+atom(entity(272, "united states", "loc")).
+atom(entity(273, "bob dole", "peop")).
+atom(entity(273, "russell", "loc")).
+atom(entity(273, "kan", "loc")).
+atom(entity(273, "republican", "org")).
+atom(entity(274, "rev  jesse jackson", "peop")).
+atom(entity(274, "south carolina", "loc")).
+atom(entity(274, "fema", "org")).
+atom(entity(275, "34th president of the united states", "other")).
+atom(entity(275, "dwight d  eisenhower", "peop")).
+atom(entity(275, "denison", "loc")).
+atom(entity(275, "texas", "loc")).
+atom(entity(276, "united states", "loc")).
+atom(entity(276, "martin van buren", "peop")).
+atom(entity(276, "kinderhook", "loc")).
+atom(entity(276, "n y", "loc")).
+atom(entity(276, "wolfgang amadeus mozart", "peop")).
+atom(entity(276, "vienna", "loc")).
+atom(entity(276, "austria", "loc")).
+atom(entity(276, "35", "other")).
+atom(entity(277, "jan  8", "other")).
+atom(entity(277, "1935", "other")).
+atom(entity(277, "elvis presley", "peop")).
+atom(entity(277, "tupelo", "loc")).
+atom(entity(277, "miss", "loc")).
+atom(entity(278, "shutes", "peop")).
+atom(entity(278, "bob dylan", "peop")).
+atom(entity(278, "duluth", "loc")).
+atom(entity(278, "hibbing", "loc")).
+atom(entity(279, "andrew jackson", "peop")).
+atom(entity(279, "united states", "loc")).
+atom(entity(279, "waxhaw", "loc")).
+atom(entity(279, "s c", "loc")).
+atom(entity(280, "benjamin harrison", "peop")).
+atom(entity(280, "23rd president of the united states", "other")).
+atom(entity(280, "north bend", "loc")).
+atom(entity(280, "ohio", "loc")).
+atom(entity(281, "oliver hazard perry", "peop")).
+atom(entity(281, "south kingstown", "loc")).
+atom(entity(281, "r i", "loc")).
+atom(entity(282, "rutherford b  hayes", "peop")).
+atom(entity(282, "delaware", "loc")).
+atom(entity(282, "ohio", "loc")).
+atom(entity(283, "20th president of the united states", "other")).
+atom(entity(283, "james garfield", "peop")).
+atom(entity(283, "orange", "loc")).
+atom(entity(283, "ohio", "loc")).
+atom(entity(284, "34th president", "other")).
+atom(entity(284, "dwight d  eisenhower", "peop")).
+atom(entity(284, "oct  14, 1890", "other")).
+atom(entity(284, "denison", "loc")).
+atom(entity(284, "tex", "loc")).
+atom(entity(285, "bette davis", "peop")).
+atom(entity(285, "ruth elizabeth davis", "peop")).
+atom(entity(285, "april", "other")).
+atom(entity(285, "lowell", "loc")).
+atom(entity(285, "mass", "loc")).
+atom(entity(286, "jesse alexander helms jr", "peop")).
+atom(entity(286, "monroe", "loc")).
+atom(entity(287, "the house", "org")).
+atom(entity(287, "thursday", "other")).
+atom(entity(287, "lawrence welk", "peop")).
+atom(entity(287, "north dakota", "loc")).
+atom(entity(288, "indiana", "loc")).
+atom(entity(288, "indianapolis", "loc")).
+atom(relation(4, "reagan", "washington", "located_in")).
+atom(relation(5, "university of virginia", "charlottesville", "orgbased_in")).
+atom(relation(5, "contra rebels", "central america", "located_in")).
+atom(relation(6, "wright", "university of texas", "work_for")).
+atom(relation(6, "wright", "nixon", "work_for")).
+atom(relation(6, "watergate", "white house", "located_in")).
+atom(relation(11, "ap", "milan", "located_in")).
+atom(relation(11, "ap", "italy", "located_in")).
+atom(relation(17, "bolshoi ballet", "moscow", "orgbased_in")).
+atom(relation(17, "kirov ballet", "leningrad", "orgbased_in")).
+atom(relation(18, "michael d  papagiannis", "boston university", "work_for")).
+atom(relation(23, "donald miller", "united federation of teachers", "work_for")).
+atom(relation(25, "ontario", "california", "located_in")).
+atom(relation(25, "el toro", "california", "located_in")).
+atom(relation(26, "yellowstone", "wyo", "located_in")).
+atom(relation(26, "mcallen", "texas", "located_in")).
+atom(relation(27, "steve wright", "doe", "work_for")).
+atom(relation(30, "judith c  toth", "house of delegates", "work_for")).
+atom(relation(30, "house of delegates", "maryland", "orgbased_in")).
+atom(relation(31, "center for disease control", "fort collins", "orgbased_in")).
+atom(relation(32, "hatcher", "onondaga territory", "located_in")).
+atom(relation(32, "hatcher", "shoshone-bannock reservation", "live_in")).
+atom(relation(32, "shoshone-bannock reservation", "idaho", "located_in")).
+atom(relation(33, "albert o  harjula", "thomaston", "live_in")).
+atom(relation(33, "paul fournier", "state department of inland fisheries and wildlife", "work_for")).
+atom(relation(34, "energy department", "idaho falls", "located_in")).
+atom(relation(34, "idaho falls", "idaho", "located_in")).
+atom(relation(36, "2nd u s  circuit court of appeals", "new york", "located_in")).
+atom(relation(36, "u s  circuit court of appeals for the district of columbia", "district of columbia", "located_in")).
+atom(relation(38, "darryl breniser", "blue ball", "live_in")).
+atom(relation(39, "terry hands", "stratford-upon-avon", "work_for")).
+atom(relation(39, "terry hands", "london", "work_for")).
+atom(relation(44, "abrams", "latin america bureau", "work_for")).
+atom(relation(45, "king", "memphis", "kill")).
+atom(relation(50, "bradley first air", "ottawa", "orgbased_in")).
+atom(relation(50, "emery air freight corp", "dayton airport", "located_in")).
+atom(relation(51, "eastport international", "upper marlboro", "orgbased_in")).
+atom(relation(51, "eastport international", "md", "orgbased_in")).
+atom(relation(53, "rocky mountains", "montana", "located_in")).
+atom(relation(53, "livingston", "montana", "located_in")).
+atom(relation(54, "folke nyberg", "university of washington", "work_for")).
+atom(relation(54, "seattle", "pacific rim", "located_in")).
+atom(relation(57, "samuel l  husk", "council of great city schools", "work_for")).
+atom(relation(60, "francisco rojas", "pemex", "work_for")).
+atom(relation(63, "ann silvernail", "international paper", "work_for")).
+atom(relation(65, "leica", "wetzlar", "orgbased_in")).
+atom(relation(65, "rollei", "braunschweig", "orgbased_in")).
+atom(relation(66, "hans guenther von zydowitz", "leica", "work_for")).
+atom(relation(67, "scott hinton", "elders futures inc", "work_for")).
+atom(relation(68, "james k  batten", "knight-ridder", "work_for")).
+atom(relation(69, "eaglebrook east", "middletown", "located_in")).
+atom(relation(69, "eaglebrook plastics inc", "chicago", "orgbased_in")).
+atom(relation(70, "ap", "beirut", "orgbased_in")).
+atom(relation(70, "ap", "lebanon", "orgbased_in")).
+atom(relation(71, "organization of the oppressed on earth", "lt  william r  higgins", "kill")).
+atom(relation(72, "america", "higgins", "kill")).
+atom(relation(73, "john jamison", "national weather service", "work_for")).
+atom(relation(73, "national weather service", "galveston", "orgbased_in")).
+atom(relation(76, "mrs  say", "cadiz", "live_in")).
+atom(relation(76, "mrs  say", "kentucky", "live_in")).
+atom(relation(78, "pacific marine inc", "houston", "orgbased_in")).
+atom(relation(78, "pacific marine inc", "grand isle", "located_in")).
+atom(relation(79, "wildfire command post", "boise", "located_in")).
+atom(relation(79, "wildfire command post", "idaho", "located_in")).
+atom(relation(82, "gerald baliles", "virginia", "live_in")).
+atom(relation(85, "state department", "kenya", "orgbased_in")).
+atom(relation(85, "mombasa", "kenya", "located_in")).
+atom(relation(86, "government information", "taiwan", "orgbased_in")).
+atom(relation(86, "government information", "washington", "located_in")).
+atom(relation(87, "taiwan information center", "washington", "located_in")).
+atom(relation(87, "taiwan information center", "national press building", "located_in")).
+atom(relation(87, "international news organizations", "national press building", "located_in")).
+atom(relation(88, "wyeth-ayerst laboratories", "philadelphia", "orgbased_in")).
+atom(relation(90, "klamath falls", "ore", "located_in")).
+atom(relation(90, "yuma", "ariz", "located_in")).
+atom(relation(91, "fort lewis", "wash", "located_in")).
+atom(relation(92, "payette national forest", "idaho", "located_in")).
+atom(relation(96, "robert bernero", "commission", "work_for")).
+atom(relation(98, "oil rig", "grand isle", "located_in")).
+atom(relation(98, "oil rig", "la", "located_in")).
+atom(relation(99, "malcolm grant", "port arthur", "work_for")).
+atom(relation(99, "sabine pass", "louisiana", "located_in")).
+atom(relation(100, "lutie dyson", "lake charles", "live_in")).
+atom(relation(101, "dem", "rhode island", "orgbased_in")).
+atom(relation(101, "warwick", "pawtuxet river", "located_in")).
+atom(relation(102, "jack frazier", "rotary club", "work_for")).
+atom(relation(103, "tom defelice", "warwick", "live_in")).
+atom(relation(103, "disney world", "florida", "located_in")).
+atom(relation(105, "terry branstad", "national governors  association", "work_for")).
+atom(relation(105, "booth gardner", "national governors  association", "work_for")).
+atom(relation(108, "john johnson", "new england telephone", "work_for")).
+atom(relation(109, "bernice mcintyre", "public utilities commission", "work_for")).
+atom(relation(114, "revolutionary justice organization", "cicippio", "other")).
+atom(relation(114, "an-nahar", "beirut", "located_in")).
+atom(relation(115, "anderson", "the associated press", "work_for")).
+atom(relation(115, "beirut", "middle east", "located_in")).
+atom(relation(116, "jacobsen", "colorado", "live_in")).
+atom(relation(116, "iranian government", "anderson", "orgbased_in")).
+atom(relation(117, "wyatt mccauley", "ch2m hill", "work_for")).
+atom(relation(117, "ch2m hill", "denver", "orgbased_in")).
+atom(relation(118, "ellington air force base", "texas", "located_in")).
+atom(relation(118, "galveston", "texas", "located_in")).
+atom(relation(119, "william p  albrecht", "commodity futures trading commission", "work_for")).
+atom(relation(120, "ogdon", "charing cross hospital", "located_in")).
+atom(relation(120, "charing cross hospital", "london", "located_in")).
+atom(relation(121, "debra sweiger", "issaquah", "live_in")).
+atom(relation(122, "ken fimberg", "denver", "located_in")).
+atom(relation(122, "peter murtha", "justice department", "work_for")).
+atom(relation(122, "justice department", "washington", "orgbased_in")).
+atom(relation(123, "opposition party", "south korea", "orgbased_in")).
+atom(relation(124, "greg thayer", "u s  forest service", "work_for")).
+atom(relation(127, "boise interagency fire center", "boise", "orgbased_in")).
+atom(relation(130, "klong toey", "bangkok", "located_in")).
+atom(relation(131, "ofer bar-yosef", "harvard university", "work_for")).
+atom(relation(131, "bernard vandermeersch", "university of bordeaux", "work_for")).
+atom(relation(131, "university of bordeaux", "france", "orgbased_in")).
+atom(relation(133, "guernsey", "channel islands", "located_in")).
+atom(relation(133, "channel islands", "britain", "located_in")).
+atom(relation(133, "channel islands", "france", "located_in")).
+atom(relation(134, "wharf holdings", "hong kong", "orgbased_in")).
+atom(relation(135, "jack macallister", "u s west inc", "work_for")).
+atom(relation(136, "lawrence kane jr", "ohio", "live_in")).
+atom(relation(137, "jean-luckenson", "signal fm", "work_for")).
+atom(relation(141, "stepanakert", "nagorno-karabakh", "located_in")).
+atom(relation(141, "nagorno-karabakh", "azerbaijan", "located_in")).
+atom(relation(147, "radio rebelde network", "havana", "orgbased_in")).
+atom(relation(148, "afp", "paris", "orgbased_in")).
+atom(relation(149, "israeli aircraft", "iqlim al-tuffah", "located_in")).
+atom(relation(149, "beirut radio lebanon", "iqlim al-tuffah", "located_in")).
+atom(relation(150, "dutch air force", "bosnia", "located_in")).
+atom(relation(150, "anp", "the hague", "orgbased_in")).
+atom(relation(151, "the jerusalem post", "jerusalem", "orgbased_in")).
+atom(relation(153, "gerald steinberg", "bar-ilan university", "work_for")).
+atom(relation(154, "steven bryen", "pentagon", "work_for")).
+atom(relation(155, "pedatzur", "massachusetts institute of technology", "work_for")).
+atom(relation(156, "australian embassies", "jakarta", "located_in")).
+atom(relation(156, "australian embassies", "bangkok", "located_in")).
+atom(relation(157, "australian government", "australia", "orgbased_in")).
+atom(relation(163, "jordi aguil oacute", "cnm", "work_for")).
+atom(relation(164, "finandes", "stock exchange district", "orgbased_in")).
+atom(relation(164, "stock exchange district", "chilean city of valparaiso", "located_in")).
+atom(relation(165, "o globo", "rio de janeiro", "orgbased_in")).
+atom(relation(166, "institute for nuclear and energy research", "sao paulo", "orgbased_in")).
+atom(relation(166, "ipen", "sao paulo", "orgbased_in")).
+atom(relation(166, "ipen", "national nuclear energy commission", "work_for")).
+atom(relation(166, "ipen", "cnen", "work_for")).
+atom(relation(167, "association of ipen employees", "sao paulo", "orgbased_in")).
+atom(relation(167, "federal employees union", "sao paulo", "orgbased_in")).
+atom(relation(168, "teleonce television", "guatemala city", "orgbased_in")).
+atom(relation(169, "magadan basin okhotrybvod", "okhotsk sea", "orgbased_in")).
+atom(relation(169, "stanislav mikhaylovich korochkin", "magadan basin okhotrybvod", "work_for")).
+atom(relation(169, "stanislav mikhaylovich korochkin", "okhotsk sea fishing administration", "work_for")).
+atom(relation(169, "washington", "bering sea", "located_in")).
+atom(relation(172, "san ignacio forest", "jaen", "located_in")).
+atom(relation(172, "san ignacio forest", "san ignacio de cajamarca", "located_in")).
+atom(relation(176, "jingji yanjiu", "beijing", "orgbased_in")).
+atom(relation(184, "ernesto zedillo ponce de leon", "valley of mexico", "located_in")).
+atom(relation(187, "nezavisimaya gazeta", "moscow", "orgbased_in")).
+atom(relation(191, "nelson rohihlahla mandela", "republic of south africa", "work_for")).
+atom(relation(192, "kna", "nairobi", "orgbased_in")).
+atom(relation(193, "prime datuk sri dr  mahathir", "south africa", "located_in")).
+atom(relation(195, "slovak foreign ministry", "budapest", "orgbased_in")).
+atom(relation(195, "gabcikovo derivation canal", "slovakia", "located_in")).
+atom(relation(196, "rene steichen", "european agricultural official", "work_for")).
+atom(relation(196, "eu headquarters", "brussels", "located_in")).
+atom(relation(197, "plo", "cairo", "orgbased_in")).
+atom(relation(198, "georgiy gurinov", "pacific fleet", "work_for")).
+atom(relation(199, "middle east and africa department", "russian foreign ministry", "orgbased_in")).
+atom(relation(199, "russians", "algeria", "located_in")).
+atom(relation(203, "federal administrative court", "berlin", "located_in")).
+atom(relation(204, "institute of organic chemistry of shanghai", "shanghai", "orgbased_in")).
+atom(relation(208, "lee harvey oswald", "kennedy", "kill")).
+atom(relation(208, "lee harvey oswald", "dallas county administration building", "work_for")).
+atom(relation(209, "sirhan sirhan", "robert f  kennedy", "kill")).
+atom(relation(210, "robert f  kennedy", "good samaritan hospital", "located_in")).
+atom(relation(210, "good samaritan hospital", "los angeles", "located_in")).
+atom(relation(210, "robert f  kennedy", "ambassador hotel", "located_in")).
+atom(relation(210, "sirhan bishara sirhan", "robert f  kennedy", "kill")).
+atom(relation(211, "james earl ray", "dr  martin luther king jr", "kill")).
+atom(relation(211, "james earl ray", "london", "located_in")).
+atom(relation(212, "oswald", "kennedy", "kill")).
+atom(relation(212, "dallas county administration building", "dallas county administration building", "located_in")).
+atom(relation(213, "lee harvey oswald", "kennedy", "kill")).
+atom(relation(213, "lee harvey oswald", "dallas", "located_in")).
+atom(relation(214, "lee harvey oswald", "president john f  kennedy", "kill")).
+atom(relation(215, "lee harvey oswald", "kennedy", "kill")).
+atom(relation(215, "texas school book depository", "dallas", "located_in")).
+atom(relation(216, "lee harvey oswald", "president john f  kennedy", "kill")).
+atom(relation(217, "charles j  guiteau", "president james garfield", "kill")).
+atom(relation(218, "jack ruby", "lee harvey oswald", "kill")).
+atom(relation(219, "john martini", "irving flax", "kill")).
+atom(relation(219, "therese afdahl", "irving flax", "kill")).
+atom(relation(220, "lee harvard oswald", "president john f  kennedy", "kill")).
+atom(relation(221, "danny veno", "dallas", "live_in")).
+atom(relation(221, "lee harvey oswald", "president kennedy", "kill")).
+atom(relation(222, "sirhan sirhan", "robert f  kennedy", "kill")).
+atom(relation(223, "sirhan sirhan", "sen  robert f  kennedy", "kill")).
+atom(relation(224, "sirhan b  sirhan", "robert f  kennedy", "kill")).
+atom(relation(225, "sirhan bishara sirhan", "kennedy", "kill")).
+atom(relation(226, "john wilkes booth", "president abraham lincoln", "kill")).
+atom(relation(227, "charlotte corday", "jean paul marat", "kill")).
+atom(relation(228, "james earl ray", "dr  martin luther king jr", "kill")).
+atom(relation(229, "lee harvey oswald", "president john f  kennedy", "kill")).
+atom(relation(230, "ray", "king", "kill")).
+atom(relation(230, "memphis", "tenn", "located_in")).
+atom(relation(231, "john wilkes booth", "lincoln", "kill")).
+atom(relation(231, "ford theatre", "washington", "located_in")).
+atom(relation(232, "james earl ray", "martin luther king jr", "kill")).
+atom(relation(233, "james earl ray", "martin luther king jr", "kill")).
+atom(relation(233, "memphis", "tenn", "located_in")).
+atom(relation(234, "jack ruby", "lee harvey oswald", "kill")).
+atom(relation(235, "sirhan b  sirhan", "sen  robert f  kennedy", "kill")).
+atom(relation(236, "jack ruby", "lee harvey oswald", "kill")).
+atom(relation(237, "oswald", "kennedy", "kill")).
+atom(relation(237, "kennedy", "dallas", "located_in")).
+atom(relation(238, "kim jae-kyu", "president park chung-hee", "kill")).
+atom(relation(239, "chapman", "lennon", "kill")).
+atom(relation(240, "mark david chapman", "john lennon", "kill")).
+atom(relation(241, "lennon", "new york", "live_in")).
+atom(relation(241, "lennon", "dakota building", "located_in")).
+atom(relation(241, "mark david chapman", "lennon", "kill")).
+atom(relation(242, "mark david chapman", "lennon", "kill")).
+atom(relation(243, "kleber elias gia bustamante", "garcia moreno prison", "live_in")).
+atom(relation(243, "kleber elias gia bustamante", "jose antonio briz lopez", "kill")).
+atom(relation(244, "james earl ray", "martin luther king", "kill")).
+atom(relation(244, "martin luther king", "memphis", "located_in")).
+atom(relation(245, "rigoberto lopez perez", "somoza garcia", "kill")).
+atom(relation(246, "sirhan b  sirhan", "sen  robert f  kennedy", "kill")).
+atom(relation(247, "sirhan", "kennedy", "kill")).
+atom(relation(247, "markman", "israel", "live_in")).
+atom(relation(248, "sirhan sirhan", "sen  robert f  kennedy", "kill")).
+atom(relation(249, "jack ruby", "oswald", "kill")).
+atom(relation(250, "lee harvey oswald", "president kennedy", "kill")).
+atom(relation(251, "mccord", "1972 campaign", "work_for")).
+atom(relation(251, "james earl ray", "rev  martin luther king jr", "kill")).
+atom(relation(252, "ruby", "oswald", "kill")).
+atom(relation(253, "john wilkes booth", "abraham lincoln", "kill")).
+atom(relation(254, "elizabeth", "north carolina", "live_in")).
+atom(relation(254, "elizabeth", "dole", "work_for")).
+atom(relation(255, "elizabeth dole", "salisbury", "live_in")).
+atom(relation(255, "elizabeth dole", "n c", "live_in")).
+atom(relation(256, "jesse jackson", "south carolina", "live_in")).
+atom(relation(257, "jesse jackson", "south carolina", "live_in")).
+atom(relation(257, "jesse jackson", "illinois", "live_in")).
+atom(relation(258, "lowell thomas", "woodington", "live_in")).
+atom(relation(258, "lowell thomas", "ohio", "live_in")).
+atom(relation(259, "eric sevareid", "velva", "live_in")).
+atom(relation(260, "hubert h  humphrey", "wallace", "live_in")).
+atom(relation(260, "charles lindbergh", "anne spencer morrow", "other")).
+atom(relation(260, "charles lindbergh", "englewood", "live_in")).
+atom(relation(261, "brigham young", "whitingham", "live_in")).
+atom(relation(261, "brigham young", "vt", "live_in")).
+atom(relation(262, "will rogers", "oklahoma", "live_in")).
+atom(relation(263, "jesse owens", "danville", "live_in")).
+atom(relation(264, "springsteen", "new jersey", "live_in")).
+atom(relation(265, "james garfield", "orange", "live_in")).
+atom(relation(265, "james garfield", "ohio", "live_in")).
+atom(relation(266, "atwater", "south carolina", "live_in")).
+atom(relation(266, "atwater", "president reagan", "work_for")).
+atom(relation(266, "atwater", "sen  strom thurmond", "work_for")).
+atom(relation(268, "texas tech university", "lubbock", "located_in")).
+atom(relation(269, "john deere", "rutland", "live_in")).
+atom(relation(269, "john deere", "vt", "live_in")).
+atom(relation(270, "rev  jesse jackson", "south carolina", "live_in")).
+atom(relation(271, "ulysses s  grant", "point pleasant", "live_in")).
+atom(relation(271, "ulysses s  grant", "ohio", "live_in")).
+atom(relation(272, "james monroe", "westmoreland county", "live_in")).
+atom(relation(272, "james monroe", "virginia", "live_in")).
+atom(relation(273, "bob dole", "russell", "live_in")).
+atom(relation(273, "bob dole", "republican", "work_for")).
+atom(relation(274, "rev  jesse jackson", "south carolina", "live_in")).
+atom(relation(275, "dwight d  eisenhower", "denison", "live_in")).
+atom(relation(275, "denison", "texas", "located_in")).
+atom(relation(276, "martin van buren", "united states", "live_in")).
+atom(relation(276, "martin van buren", "kinderhook", "live_in")).
+atom(relation(276, "wolfgang amadeus mozart", "vienna", "live_in")).
+atom(relation(276, "wolfgang amadeus mozart", "austria", "located_in")).
+atom(relation(277, "elvis presley", "tupelo", "live_in")).
+atom(relation(278, "bob dylan", "duluth", "live_in")).
+atom(relation(278, "bob dylan", "hibbing", "live_in")).
+atom(relation(279, "andrew jackson", "waxhaw", "live_in")).
+atom(relation(280, "benjamin harrison", "north bend", "live_in")).
+atom(relation(280, "benjamin harrison", "ohio", "live_in")).
+atom(relation(281, "oliver hazard perry", "south kingstown", "live_in")).
+atom(relation(282, "rutherford b  hayes", "delaware", "live_in")).
+atom(relation(282, "rutherford b  hayes", "ohio", "live_in")).
+atom(relation(283, "james garfield", "orange", "live_in")).
+atom(relation(283, "james garfield", "ohio", "live_in")).
+atom(relation(284, "dwight d  eisenhower", "denison", "live_in")).
+atom(relation(284, "dwight d  eisenhower", "tex", "live_in")).
+atom(relation(285, "bette davis", "lowell", "live_in")).
+atom(relation(285, "bette davis", "mass", "live_in")).
+atom(relation(286, "jesse alexander helms jr", "monroe", "live_in")).
+atom(relation(288, "indianapolis", "indiana", "located_in")).

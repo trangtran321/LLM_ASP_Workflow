@@ -8,10 +8,10 @@ def format(predfile, dataset, model="gpt-4o-2024-08-06"):
     if dataset == "ade":
         import ade.ade_config as config
         gtfile = "./preprocessed/ade_test_set.json"
-    elif dataset == "sci":
+    elif dataset == "scierc":
         import scierc.sci_config as config
         gtfile = "./preprocessed/sci_test_set.json"
-    elif dataset == "con":
+    elif dataset == "conll04":
         import conll04.con_config as config
         gtfile = "./preprocessed/con_test_set.json"
     else: 

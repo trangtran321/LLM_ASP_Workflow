@@ -6,9 +6,9 @@ def ft_format(file, dataset, doc_type):
     sys.path.insert(0, '../datasets')
     if dataset == "ade":
         import ade.ade_config as config
-    elif dataset == "sci":
+    elif dataset == "scierc":
         import scierc.sci_config as config
-    elif dataset == "con":
+    elif dataset == "conll04":
         import conll04.con_config as config
     else: 
         raise ValueError("That dataset is not supported. Please enter 'ade', 'sci', or 'con' for ADE, SciErc, or CoNLL04 respectively.")

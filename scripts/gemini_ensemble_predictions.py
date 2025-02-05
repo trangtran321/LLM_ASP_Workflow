@@ -78,10 +78,10 @@ def gemini_predictions(predfile:str, dataset:str):
     if dataset == "ade":
         import ade.ade_config as data_config
         gtfile = "./preprocessed/ade_test_set.json"
-    elif dataset == "sci":
+    elif dataset == "scierc":
         import scierc.sci_config as data_config
         gtfile = "./preprocessed/sci_test_set.json"
-    elif dataset == "con":
+    elif dataset == "conll04":
         import conll04.con_config as data_config
         gtfile = "./preprocessed/con_test_set.json"
     else: 

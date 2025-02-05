@@ -129,7 +129,7 @@ def preprocess(input, dataset, doc_type):
     
     output = "./preprocessed/" + dataset + "_" + doc_type + "_set.json"
 
-    if dataset == "con" or dataset == "sci":
+    if dataset == "conll04" or dataset == "scierc":
         preprocess_sci_con(input, output)
     elif dataset == "ade":
         preprocess_ade(input, output)

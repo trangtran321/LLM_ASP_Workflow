@@ -15,6 +15,10 @@ Once all dependencies are downloaded, enter the scripts directory in terminal an
 
     python3 main.py --purpose inference --dataset <choose dataset> --model <default is gpt-4o-2024-08-06>
 
+For example, to run inference on GPT4o on the ADE dataset: 
+
+    python3 main.py --purpose inference --dataset ade --model gpt-4o-2024-08-06
+
 ## LLM Ensemble: Entity Reduction Module
 This module can be called within the scripts directory as well. It performs model ensembling to determine the correctness of previous outputs in regards to entities found. It requires both OpenAI and Gemini keys. 
 

@@ -108,8 +108,8 @@ def compute_score(pred_path, dataset):
 
     dataset_types = {
                 "ade": {"entity_types" : ["adverse-effect", "drug"], "relationship_types" : ["adverse-effect"]},
-                "sci": {"entity_types" : ['task', 'method', 'metric', 'material', 'otherscientificterm', 'generic'], "relationship_types" : ['used-for', 'feature-of', 'hyponym-of', 'part-of', 'compare', 'conjunction', 'evaluate-for']},
-                "con": {"entity_types" : ["loc", "peop", "other", "org"], "relationship_types" : ["kill", "live_in", "orgbased_in", "work_for", "located_in"]}
+                "scierc": {"entity_types" : ['task', 'method', 'metric', 'material', 'otherscientificterm', 'generic'], "relationship_types" : ['used-for', 'feature-of', 'hyponym-of', 'part-of', 'compare', 'conjunction', 'evaluate-for']},
+                "conll04": {"entity_types" : ["loc", "peop", "other", "org"], "relationship_types" : ["kill", "live_in", "orgbased_in", "work_for", "located_in"]}
                }
 
     gt_entities, gt_relationships, pred_entities, pred_relationships = convert_wksht(pred_path, gt_path)
